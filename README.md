@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://i.imgur.com/6QyXKDI.jpg)
+![](https://i.imgur.com/GSQ9ILC.png)
 
 <h1 align="center">Hola 👋, Soy Nelson Barrios</h1>
 <h3 align="center">Un apasionado fullstack desarrollador de Lanús</h3>

@@ -36,3 +36,4 @@
 <a href="https://instagram.com/nelsonnatanael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nelsonnatanael" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/nelsonbarrios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nelsonbarrios" height="30" width="30" /></a>
 </p>
+

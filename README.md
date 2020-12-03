@@ -1,6 +1,6 @@
   
 
-![](https://i.imgur.com/GSQ9ILC.png)
+![](https://i.imgur.com/ZVluA8f.jpg)
 
 <h1 align="center">Hola 👋, Soy Nelson Barrios</h1>
 <h3 align="center">Un apasionado fullstack desarrollador web de Lanús</h3>

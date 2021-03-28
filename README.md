@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, Soy Nelson Barrios</h1>
 <h3 align="center">Un apasionado fullstack desarrollador web de Lanús</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonbarrios" alt="nelsonbarrios" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nelsonbarrios" alt="nelsonbarrios" /> </p>
 
 - 🔭 Estoy trabajando en [Cell store](github.com/NelsonBarrios/grupo_16_cell)
 

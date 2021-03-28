@@ -15,7 +15,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [github.com/NelsonBarrios](github.com/NelsonBarrios)
 
-- 📝 Escribo artículos en [Twitter.com/nelsonbarrios97](Twitter.com/nelsonbarrios97)
+- 📝 Escribo artículos en [Linkedin.com/in/nelsonbarrios](Linkedin.com/in/nelsonbarrios)
 
 - 💬 Pregúntame acerca de **Diseño Web**
 

@@ -9,7 +9,7 @@
 
 - 🔭 Estoy trabajando en [Cell store](github.com/NelsonBarrios/grupo_16_cell)
 
-- 🌱 Actualmente estoy aprendiendo **Json, MySQL, C+**
+- 🌱 Actualmente estoy aprendiendo **Json, MySQL, C++**
 
 - 👯 Estoy buscando colaborar en [Cell](github.com/JuniorLizazu/grupo_16_CELL)
 
@@ -17,7 +17,7 @@
 
 - 📝 Escribo artículos en [Linkedin.com/in/nelsonbarrios](Linkedin.com/in/nelsonbarrios)
 
-- 💬 Pregúntame acerca de **Diseño Web**
+- 💬 Pregúntame acerca de **Software**
 
 - 📫 Cómo contactarme **Nelson.barrios3@gmail.com**
 

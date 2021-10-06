@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/nelsonbarrios97" target="blank"><img src="https://img.shields.io/twitter/follow/nelsonbarrios97?logo=twitter&style=for-the-badge" alt="nelsonbarrios97" /></a> </p>
 
-- 🔭 Estoy trabajando en **Cell**
+- 🔭 Estoy trabajando en **IT-Techgroup**
 
-- 🌱 Actualmente estoy aprendiendo [API RestFul, JSON, JWS](https://github.com/NelsonBarrios/Ego)
+- 🌱 Actualmente estoy aprendiendo [CreateJs, Tween, SoundJs](https://nelsonbarrios.github.io/blackjackjs/)
 
-- 👯 Estoy buscando colaborar en [Cell](https://github.com/NelsonBarrios/ecommerce)
+- 👯 Estoy buscando colaborar en [IT-Techgroup](https://github.com/NelsonBarrios/blackjackjs)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/NelsonBarrios?tab=repositories](https://github.com/NelsonBarrios?tab=repositories)
 
